@@ -4,4 +4,4 @@ pandas
 matplotlib
 sklearn
 gunicorn
-python.3.10.5
+python-3.10.5
